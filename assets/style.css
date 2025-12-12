@@ -1,0 +1,8 @@
+body {
+	/*font-family: Arial, sans-serif;*/
+	font-family: monospace;
+	background-color: #f5f1e1;
+	color: #333;
+	margin: 0;
+	padding: 20px;
+}
